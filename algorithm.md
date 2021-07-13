@@ -1,3 +1,7 @@
+---
+description: '알고리즘(영어: algorithm)'
+---
+
 # Algorithm
 
 ## Getting Super Powers

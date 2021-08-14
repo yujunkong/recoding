@@ -7,6 +7,7 @@
   * [Untitled](structure/untitled/README.md)
     * [Untitled](structure/untitled/untitled.md)
 * [Algorithm](algorithm.md)
+* [Python 기본 문법](python.md)
 * [Python Libs](python-libs/README.md)
   * [Pantas](python-libs/pantas.md)
   * [Requests](python-libs/requests.md)

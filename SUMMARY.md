@@ -12,7 +12,11 @@
 
 ## Python <a id="python-1"></a>
 
-* [Python Basic](python-1/python.md)
+* [Python Basic](python-1/python/README.md)
+  * [String](python-1/python/string.md)
+  * [Operation](python-1/python/operation.md)
+  * [Conditional](python-1/python/conditional.md)
+  * [Array](python-1/python/array.md)
 * [Python Libs](python-1/python-libs/README.md)
   * [Pantas](python-1/python-libs/pantas.md)
   * [Requests](python-1/python-libs/requests.md)

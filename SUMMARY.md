@@ -1,15 +1,18 @@
 # Table of contents
 
 * [Initial page](README.md)
-* [Data Structure](structure/README.md)
-  * [Untitled](structure/untitled-1.md)
-  * [Untitled](structure/untitled/README.md)
-    * [Untitled](structure/untitled/untitled.md)
-* [Algorithm](algorithm.md)
+
+## Programming Base
+
+* [Data Structure](programming-base/structure/README.md)
+  * [Untitled](programming-base/structure/untitled-1.md)
+  * [Untitled](programming-base/structure/untitled/README.md)
+    * [Untitled](programming-base/structure/untitled/untitled.md)
+* [Algorithm](programming-base/algorithm.md)
 
 ## Python <a id="python-1"></a>
 
-* [Python 기본 문법](python-1/python.md)
+* [Python Basic](python-1/python.md)
 * [Python Libs](python-1/python-libs/README.md)
   * [Pantas](python-1/python-libs/pantas.md)
   * [Requests](python-1/python-libs/requests.md)

@@ -1,6 +1,2 @@
 # Python Basic
 
-## 
-
-#### 
-
